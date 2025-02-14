@@ -15,5 +15,5 @@ logging.basicConfig(
     format='[%(asctime)s] {%(pathname)s:%(lineno)d} %(levelname)s - %(message)s',
     datefmt='%H:%M:%S',
     level=logging.INFO,  # Fix comma issue
-)
+)  
 
